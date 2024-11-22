@@ -205,7 +205,7 @@ Het kan even duren voordat de robot verbinding heeft. Op een gegeven moment moet
 
    Soms kan het zijn dat je computer ineens niet meer met de Mirte robot verbonden is, maar weer standaard
    naar een ander netwerk is. Dan kan het zijn dat je het startscherm wel ziet, maar er niets meer mee kan
-   doen. Dit kan ook gebeuren als je bezig bent. Zorg er dan voor dat je weer vebindt met de Mirte robot
+   doen. Dit kan ook gebeuren als je bezig bent. Zorg er dan voor dat je weer verbindt met de Mirte robot
    en dat je de pagina refresht door op F5 te drukken.
 
 
